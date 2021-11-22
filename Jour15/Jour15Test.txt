@@ -1,0 +1,5 @@
+with open("Jour16.txt",'r') as f:
+    for ligne in f
+        if ':' in ligne:
+        l = ligne.split(':')
+        valeur.append(ligne.split(':'))
